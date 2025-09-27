@@ -3,6 +3,9 @@ import './App.css';
 import Wallet from "./components/Wallet/Wallet";
 import Navigation from "./components/Navigation/Navigation";
 import DisplayPannel from './components/Display Pannel/DisplayPannel';
+import TokenApproval from './components/StakeToken/TokenApproval';
+import StakeAmount from './components/StakeToken/StakeAmount';
+import WithdrawStakeAmount from './components/Withdraw/Withdraw';
 import { StakingProvider } from './context/StakingContext';
 
 function App() {
