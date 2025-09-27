@@ -1,6 +1,6 @@
 specVersion: 0.0.1
 description: Staking DApp Subgraph
-repository: https://github.com/your-username/your-repo
+repository: https://github.com/kawaiibaka0908/eggshell
 schema:
   file: ./schema.graphql
 dataSources:
