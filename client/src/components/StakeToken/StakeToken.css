@@ -33,7 +33,7 @@
     background-color: var(--primary-color);
   }
   .token-amount-form Button:hover {
-    background-color: rgb(124, 11, 126);
+    background-color: #0e9273;
   }
   .stake-amount-form {
     width: 500px;
@@ -71,6 +71,6 @@
     background-color: var(--primary-color);
   }
   .stake-amount-form Button:hover {
-    background-color: rgb(124, 11, 126);
+    background-color: #0e9273;
   }
   

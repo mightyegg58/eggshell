@@ -2,7 +2,7 @@ Button {
     padding: 10px 28px 10px 28px;
     color: var(--primary-color);
     border-style: none;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     border-radius: 8px;
   }
   .navbar {
@@ -18,6 +18,6 @@ Button {
   }
   .Connect-Wallet Button {
     margin-top: 24px;
-    width: 500px;
+    width: -500px;
   }
   

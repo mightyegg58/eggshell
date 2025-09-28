@@ -2,8 +2,8 @@
 
 :root {
   font-family: "Lexend", sans-serif;
-  --primary-color: #ad00ff;
-  --bg-color: #f2f2f2;
+  --primary-color: #000000;
+  --bg-color: #0e9273;
   --white: #ffffff;
 }
 * {
